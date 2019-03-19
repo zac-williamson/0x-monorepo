@@ -17,6 +17,7 @@
             {
                 "note": "Run Web3ProviderEngine without excess block polling",
                 "pr": 1695
+            }
 
         ]
     },
